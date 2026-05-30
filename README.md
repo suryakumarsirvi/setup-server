@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 You can run the interactive scaffolder immediately without local installation using `npx`:
 
@@ -20,20 +20,20 @@ npx setup-server server
 
 ---
 
-## ✨ Features
+## Features
 
 `setup-server` prepares complete, modular backend systems equipped with best practices and professional terminal graphics.
 
-- 🛠️ **Languages**: Fully configured **TypeScript (tsconfig, build paths)** or **modern ES Modules JavaScript**.
-- 🗄️ **Databases**: Native **MongoDB (Mongoose)** or **SQL (PostgreSQL, MySQL, SQLite)** using Sequelize.
-- ⚙️ **Security & Utilities**: Auto-configures CORS, Helmet, Morgan logger, Express Rate Limiter, Cookie Parser, and Dotenv.
-- 📁 **Media Storage**: Service integrations for **Local uploads (Multer)**, **AWS S3**, **Cloudinary**, **Firebase**, **Uploadcare**, and **Mux Video**.
-- 📧 **Emails**: Production scripts for **SMTP Nodemailer**, **SendGrid**, **Mailgun**, **Brevo (Sendinblue)**, and **Mailcheap**.
-- 🤖 **Automation**: High-fidelity, emoji-free console layouts and built-in Express/Zod **CRUD API compiler**.
+- **Languages**: Fully configured **TypeScript (tsconfig, build paths)** or **modern ES Modules JavaScript**.
+- **Databases**: Native **MongoDB (Mongoose)** or **SQL (PostgreSQL, MySQL, SQLite)** using Sequelize.
+- **Security & Utilities**: Auto-configures CORS, Helmet, Morgan logger, Express Rate Limiter, Cookie Parser, and Dotenv.
+- **Media Storage**: Service integrations for **Local uploads (Multer)**, **AWS S3**, **Cloudinary**, **Firebase**, **Uploadcare**, and **Mux Video**.
+- **Emails**: Production scripts for **SMTP Nodemailer**, **SendGrid**, **Mailgun**, **Brevo (Sendinblue)**, and **Mailcheap**.
+- **Automation**: High-fidelity, emoji-free console layouts and built-in Express/Zod **CRUD API compiler**.
 
 ---
 
-## 🚀 Interactive Prompt Configurations
+## Interactive Prompt Configurations
 
 When executing `npx setup-server`, the CLI guides you through:
 1. **Target Folder**: Current directory or a clean, auto-created folder directory.
@@ -46,7 +46,7 @@ When executing `npx setup-server`, the CLI guides you through:
 
 ---
 
-## 🤖 Automatic CRUD Generation
+## Automatic CRUD Generation
 
 Easily generate ready-to-use CRUD layers (Routes, Controller, Zod Validators) directly from your Mongoose schemas!
 
@@ -82,7 +82,7 @@ The compiler analyzes your model schema and writes the following modular layers:
 
 ---
 
-## 📂 Scaffold Directory Structure
+## Scaffold Directory Structure
 
 The scaffolded project organizes code separation beautifully:
 
@@ -107,6 +107,10 @@ The scaffolded project organizes code separation beautifully:
 
 ---
 
-## 📄 License
+## Author
+
+Suryakumar Sirvi
+
+## License
 
 This project is licensed under the MIT License.
